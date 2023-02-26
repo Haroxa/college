@@ -1,0 +1,14 @@
+﻿  billing_file.c
+D:\Programming-Language\CODE\Visual studio\source\项目01\Accountmanagement\Accountmanagement\billing_file.c(30,20): warning C4133: “=”: 从“bill *”到“bill *”的类型不兼容
+D:\Programming-Language\CODE\Visual studio\source\项目01\Accountmanagement\Accountmanagement\billing_file.c(74,22): warning C4133: “=”: 从“bill *”到“bill *”的类型不兼容
+D:\Programming-Language\CODE\Visual studio\source\项目01\Accountmanagement\Accountmanagement\billing_file.c(75,23): warning C4133: “=”: 从“bill *”到“bill *”的类型不兼容
+  billing_service.c
+D:\Programming-Language\CODE\Visual studio\source\项目01\Accountmanagement\Accountmanagement\billing_service.c(27,3): warning C4013: “strcpy”未定义；假设外部返回 int
+D:\Programming-Language\CODE\Visual studio\source\项目01\Accountmanagement\Accountmanagement\billing_service.c(40,22): warning C4133: “=”: 从“bill *”到“bill *”的类型不兼容
+D:\Programming-Language\CODE\Visual studio\source\项目01\Accountmanagement\Accountmanagement\billing_service.c(41,23): warning C4133: “=”: 从“bill *”到“bill *”的类型不兼容
+D:\Programming-Language\CODE\Visual studio\source\项目01\Accountmanagement\Accountmanagement\billing_service.c(95,20): warning C4133: “=”: 从“bill *”到“bill *”的类型不兼容
+D:\Programming-Language\CODE\Visual studio\source\项目01\Accountmanagement\Accountmanagement\billing_service.c(110,20): warning C4133: “=”: 从“bill *”到“bill *”的类型不兼容
+D:\Programming-Language\CODE\Visual studio\source\项目01\Accountmanagement\Accountmanagement\billing_service.c(124,20): warning C4133: “=”: 从“bill *”到“bill *”的类型不兼容
+  tool.c
+  正在生成代码...
+  Accountmanagement.vcxproj -> D:\Programming-Language\CODE\Visual studio\source\项目01\Accountmanagement\x64\Debug\Accountmanagement.exe
